@@ -1,0 +1,11 @@
+{
+    // .vscode/task.json file
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "test",
+            "type": "shell",
+            "command": "make test"
+        }
+    ]
+}
